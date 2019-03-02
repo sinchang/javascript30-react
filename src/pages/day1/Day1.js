@@ -99,7 +99,7 @@ class Day1 extends React.Component {
     return (
       <div>
         <div className="keys">
-          {data.map((item, index) => {
+          {KEY_DATA.map((item, index) => {
             const classNames =
               item.keyCode === this.state.currentCode ? 'key playing' : 'key'
             return (
