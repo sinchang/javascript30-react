@@ -1,68 +1,38 @@
+# JavaScript 30 React Version
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sinchang/javascript30-react/issues)
+
+## Progress
+
+- [ ] [JavaScript Drum Kit](https://javascript30-react.netfliy.com/#/day1)
+- [ ] [CSS + JS Clock](https://javascript30-react.netfliy.com/#/day2)
+- [ ] [Playing with CSS Variables and JS](https://javascript30-react.netfliy.com/#/day3)
+- [ ] [Array Cardio Day 1](https://javascript30-react.netfliy.com/#/day4)
+- [ ] [Flex Panels Image Gallery](https://javascript30-react.netfliy.com/#/day5)
+- [ ] [Ajax Type Ahead](https://javascript30-react.netfliy.com/#/day6)
+- [ ] [Array Cardio Day 2](https://javascript30-react.netfliy.com/#/day7)
+- [ ] [Fun with HTML5 Canvas](https://javascript30-react.netfliy.com/#/day8)
+- [ ] [14 Must Know Dev Tools Tricks](https://javascript30-react.netfliy.com/#/day9)
+- [ ] [Hold Shift to Check Multiple Checkboxes](https://javascript30-react.netfliy.com/#/day10)
+- [ ] [Custom HTML5 Video Player](https://javascript30-react.netfliy.com/#/day11)
+- [ ] [Key Sequence Detection (KONAMI CODE)](https://javascript30-react.netfliy.com/#/day12)
+- [ ] [Slide In on Scroll](https://javascript30-react.netfliy.com/#/day13)
+- [ ] [Object and Arrays - Reference VS Copy](https://javascript30-react.netfliy.com/#/day14)
+- [ ] [LocalStorage and Event Delegation](https://javascript30-react.netfliy.com/#/day15)
+- [ ] [CSS Text Shadow Mouse Move Effect](https://javascript30-react.netfliy.com/#/day16)
+- [ ] [Sorting Band Names without articles](https://javascript30-react.netfliy.com/#/day17)
+- [ ] [Tally String Times with Reduce](https://javascript30-react.netfliy.com/#/day18)
+- [ ] [Unreal Webcam Fun](https://javascript30-react.netfliy.com/#/day19)
+- [ ] [Native Speech Recognition](https://javascript30-react.netfliy.com/#/day20)
+- [ ] [Geolocation based Speedometer and Compass](https://javascript30-react.netfliy.com/#/day21)
+- [ ] [Follow Along Links](https://javascript30-react.netfliy.com/#/day22)
+- [ ] [Speech Synthesis](https://javascript30-react.netfliy.com/#/day23)
+- [ ] [Sticky Nav](https://javascript30-react.netfliy.com/#/day24)
+- [ ] [Event Capture, Propagation, Bubbling and Once](https://javascript30-react.netfliy.com/#/day25)
+- [ ] [Stripe Follow Along Dropdown](https://javascript30-react.netfliy.com/#/day26)
+- [ ] [Click and Drag to Scroll](https://javascript30-react.netfliy.com/#/day27)
+- [ ] [Video Speed Controller UI](https://javascript30-react.netfliy.com/#/day28)
+- [ ] [Countdown Clock](https://javascript30-react.netfliy.com/#/day29)
+- [ ] [Whack A Mole Game](https://javascript30-react.netfliy.com/#/day30)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
