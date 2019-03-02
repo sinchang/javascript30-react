@@ -3,7 +3,7 @@ import './style.css'
 import sounds from '../day1/sounds'
 
 const INVALID_CODE = -1
-const data = [
+const KEY_DATA = [
   {
     keyCode: 65,
     word: 'A',
@@ -62,7 +62,7 @@ class Day1 extends React.Component {
     this.setState({ keyCode: INVALID_CODE })
     const { keyCode } = event
 
-    data.forEach(item => {
+    KEY_DATA.forEach(item => {
       if (item.keyCode === keyCode) {
         this.setState({
           currentCode: keyCode
