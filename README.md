@@ -1,6 +1,7 @@
 # JavaScript 30 React Version
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sinchang/javascript30-react/issues)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/415586a9-b519-4475-a7b2-a6f898acda92/deploy-status)](https://app.netlify.com/sites/javascript30-react/deploys)
 
 ## Progress
 
@@ -35,4 +36,7 @@
 - [ ] [Countdown Clock](https://javascript30-react.netfliy.com/#/day29)
 - [ ] [Whack A Mole Game](https://javascript30-react.netfliy.com/#/day30)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Credits
+
+- [wesbos/JavaScript30: 30 Day Vanilla JS Challenge](https://github.com/wesbos/JavaScript30)
+- [Create React App](https://github.com/facebook/create-react-app).
