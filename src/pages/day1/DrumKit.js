@@ -1,6 +1,6 @@
 import React from 'react'
-import './style.css'
-import sounds from '../day1/sounds'
+import './style.scss'
+import sounds from './sounds'
 
 const INVALID_CODE = -1
 const KEY_DATA = [
@@ -50,7 +50,8 @@ const KEY_DATA = [
     name: 'tink'
   }
 ]
-class Day1 extends React.Component {
+
+class DrumKit extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -81,6 +82,8 @@ class Day1 extends React.Component {
   }
 
   componentDidMount() {
+    document.querySelector('html').className = ''
+    document.querySelector('html').classList.add('drumKit-wrap')
     document.addEventListener(
       'keydown',
       event => this.handleKeydown(event),
@@ -119,4 +122,4 @@ class Day1 extends React.Component {
   }
 }
 
-export default Day1
+export default DrumKit

@@ -1,7 +1,11 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
 export default () => {
+  useEffect(() => {
+    document.querySelector('html').className = ''
+  })
+
   return (
     <div className="homepage">
       <h2>JavaScript 30 React Version</h2>
