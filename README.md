@@ -6,7 +6,7 @@
 ## Progress
 
 - [x] [JavaScript Drum Kit](https://javascript30-react.netlify.com/#/day1)
-- [ ] [CSS + JS Clock](https://javascript30-react.netlify.com/#/day2)
+- [x] [CSS + JS Clock](https://javascript30-react.netlify.com/#/day2)
 - [ ] [Playing with CSS Variables and JS](https://javascript30-react.netlify.com/#/day3)
 - [ ] [Array Cardio Day 1](https://javascript30-react.netlify.com/#/day4)
 - [ ] [Flex Panels Image Gallery](https://javascript30-react.netlify.com/#/day5)
