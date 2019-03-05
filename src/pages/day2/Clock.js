@@ -1,12 +1,15 @@
 import React, { useState, useEffect } from 'react'
-import './style.css'
+import './style.scss'
 
-function Day2() {
+function Clock() {
   const [secondsDegrees, setSecondsDegrees] = useState(0)
   const [minsDegrees, setMinsDegrees] = useState(0)
   const [hourDegrees, setHourDegrees] = useState(0)
 
   useEffect(() => {
+    document.querySelector('html').className = ''
+    document.querySelector('html').classList.add('clock-wrap')
+
     function setDate() {
       const now = new Date()
 
@@ -29,25 +32,23 @@ function Day2() {
   })
 
   return (
-    <div className="day2-container">
-      <div className="clock">
-        <div className="clock-face">
-          <div
-            className="hand hour-hand"
-            style={{ transform: `rotate(${hourDegrees}deg)` }}
-          />
-          <div
-            className="hand min-hand"
-            style={{ transform: `rotate(${minsDegrees}deg)` }}
-          />
-          <div
-            className="hand second-hand"
-            style={{ transform: `rotate(${secondsDegrees}deg)` }}
-          />
-        </div>
+    <div className="clock">
+      <div className="clock-face">
+        <div
+          className="hand hour-hand"
+          style={{ transform: `rotate(${hourDegrees}deg)` }}
+        />
+        <div
+          className="hand min-hand"
+          style={{ transform: `rotate(${minsDegrees}deg)` }}
+        />
+        <div
+          className="hand second-hand"
+          style={{ transform: `rotate(${secondsDegrees}deg)` }}
+        />
       </div>
     </div>
   )
 }
 
-export default Day2
+export default Clock
