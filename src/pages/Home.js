@@ -20,16 +20,10 @@ export default () => {
           <Link to="/day3/">Playing with CSS Variables and JS</Link>
         </li>
         <li>
-          <Link to="/day4/">Array Cardio Day 1</Link>
-        </li>
-        <li>
           <Link to="/day5/">Flex Panels Image Gallery</Link>
         </li>
         <li>
           <Link to="/day6/">Ajax Type Ahead</Link>
-        </li>
-        <li>
-          <Link to="/day7/">Array Cardio Day 2</Link>
         </li>
         <li>
           <Link to="/day8/">Fun with HTML5 Canvas</Link>
