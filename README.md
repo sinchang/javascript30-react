@@ -9,7 +9,7 @@
 - [x] [CSS + JS Clock](https://javascript30-react.netlify.com/#/day2)
 - [x] [Playing with CSS Variables and JS](https://javascript30-react.netlify.com/#/day3)
 - [x] [Flex Panels Image Gallery](https://javascript30-react.netlify.com/#/day5)
-- [ ] [Ajax Type Ahead](https://javascript30-react.netlify.com/#/day6)
+- [x] [Ajax Type Ahead](https://javascript30-react.netlify.com/#/day6)
 - [ ] [Fun with HTML5 Canvas](https://javascript30-react.netlify.com/#/day8)
 - [ ] [14 Must Know Dev Tools Tricks](https://javascript30-react.netlify.com/#/day9)
 - [ ] [Hold Shift to Check Multiple Checkboxes](https://javascript30-react.netlify.com/#/day10)
