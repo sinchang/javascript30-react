@@ -29,9 +29,6 @@ export default () => {
           <Link to="/day8/">Fun with HTML5 Canvas</Link>
         </li>
         <li>
-          <Link to="/day9/">14 Must Know Dev Tools Tricks</Link>
-        </li>
-        <li>
           <Link to="/day10/">Hold Shift to Check Multiple Checkboxes</Link>
         </li>
         <li>

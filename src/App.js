@@ -7,6 +7,7 @@ import Clock from './pages/day2/Clock'
 import Variables from './pages/day3/Variables'
 import Panels from './pages/day5/Panels'
 import Type from './pages/day6/Type'
+import Checkbox from './pages/day10/Checkbox'
 class App extends Component {
   render() {
     return (
@@ -18,6 +19,7 @@ class App extends Component {
           <Route exact path="/day3" component={Variables} />
           <Route exact path="/day5" component={Panels} />
           <Route exact path="/day6" component={Type} />
+          <Route exact path="/day10" component={Checkbox} />
         </div>
       </Router>
     )
