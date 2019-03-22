@@ -12,7 +12,7 @@
 - [x] [Ajax Type Ahead](https://javascript30-react.netlify.com/#/day6)
 - [ ] [Fun with HTML5 Canvas](https://javascript30-react.netlify.com/#/day8)
 - [x] [Hold Shift to Check Multiple Checkboxes](https://javascript30-react.netlify.com/#/day10)
-- [ ] [Custom HTML5 Video Player](https://javascript30-react.netlify.com/#/day11)
+- [x] [Custom HTML5 Video Player](https://javascript30-react.netlify.com/#/day11)
 - [ ] [Key Sequence Detection (KONAMI CODE)](https://javascript30-react.netlify.com/#/day12)
 - [ ] [Slide In on Scroll](https://javascript30-react.netlify.com/#/day13)
 - [ ] [Object and Arrays - Reference VS Copy](https://javascript30-react.netlify.com/#/day14)
