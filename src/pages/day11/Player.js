@@ -121,7 +121,6 @@ class Player extends React.Component {
             value={this.state.playbackRate}
             onChange={e => this.handlePlaybackRate(e)}
           />
-          >
           <button
             data-skip="-10"
             className="player__button"
